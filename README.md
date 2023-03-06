@@ -1,8 +1,8 @@
 ## Project Motivation
 in this project, I was intrested on how the lifestyle of individuals can affect their overall wellness and work-life balance. Using Lifestyle and Wellbeing dataset, we could obtain several results which are:
-1. who does stress, lose vacations, and shouting have imbalanced work-life?
-2. how activates reduces stress?
-3. Does healthy behaviors relate to BMI?
+1. who stress, lose vacations, and shouting have imbalanced work-life?
+2. Do activities reduce stress?
+3. Do healthy behaviors relate to BMI?
 
 ## File Description
 the WellbeingNotebook.ipynb illustrate the results of three different questions was mentioned in my article [How our Lifestyle affects our Wellness?](https://medium.com/@reemaamr01/how-our-lifestyle-affects-our-wellness-2103fb3f37f8). In addition, I implmented a Linear Regression (LR) model to predict the work-life balance score of the respondents.

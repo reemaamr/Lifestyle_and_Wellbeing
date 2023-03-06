@@ -11,4 +11,4 @@ the WellbeingNotebook.ipynb illustrate the results of three different questions 
 you can find the main findings [here](https://medium.com/@reemaamr01/how-our-lifestyle-affects-our-wellness-2103fb3f37f8). for the LR model, it reached 91.09% score.
 
 ## Licensing, Authors, Acknowledgements
-You can find the Licensing for the data and more information about it in the Kaggle link available [here](https://www.kaggle.com/datasets/ydalat/lifestyle-and-wellbeing-data).
+This project was cannot be done without the provided dataset, all thanks to Mr. Yvon Dalat. You can find the Licensing for the data and more information about it in the Kaggle link available [here](https://www.kaggle.com/datasets/ydalat/lifestyle-and-wellbeing-data).
